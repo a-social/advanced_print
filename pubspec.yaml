@@ -1,0 +1,5 @@
+dependencies:
+  advanced_print:
+    git:
+      url: https://github.com/a-social/advanced_print.git
+      ref: main # opsiyonel (branch adı)
