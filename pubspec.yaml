@@ -1,5 +1,7 @@
-dependencies:
-  advanced_print:
-    git:
-      url: https://github.com/a-social/advanced_print.git
-      ref: main # opsiyonel (branch adı)
+name: advanced_print
+description: Erdal'ın on numara print paketi.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
